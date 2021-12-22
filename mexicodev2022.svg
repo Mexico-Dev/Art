@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="mexicodev2022.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:zoom="0.81347656"
+     inkscape:cx="-44.869148"
+     inkscape:cy="172.10084"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2800" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2800"
+       transform="matrix(1.3333333,0,0,-1.3333333,-16.655207,626.56087)">
+      <g
+         id="g2684"
+         transform="matrix(2,0,0,2,-231.68949,-250.72258)">
+        <g
+           id="g101"
+           transform="translate(283.7457,272.91312)">
+          <path
+             d="m 0,0 -32.826,17.271 -24.503,12.89 V 11.249 l 37.712,-19.84 -37.712,-19.841 V -47.344 L -32.826,-34.453 0,-17.182 Z"
+             style="fill:#f00922;fill-opacity:1;fill-rule:evenodd;stroke:none"
+             id="path103" />
+        </g>
+        <path
+           d="m 209.7662,284.16212 v 18.912 l -24.503,-12.89 -32.828,-17.271 v -17.182 l 32.828,-17.271 24.503,-12.891 v 18.912 l -37.713,19.841 z"
+           style="fill:#006843;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path107" />
+      </g>
+    </g>
+  </g>
+</svg>
