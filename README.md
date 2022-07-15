@@ -1,2 +1,1 @@
-# art
-Art de MexicoDev
+# MexicoDev Art
